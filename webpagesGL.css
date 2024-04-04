@@ -5,17 +5,15 @@
  *Assignment: [Assignment Name]
  *Description: [Assignment Description]
  */
-	<html xmins="http://www.w3.org/1999/xhtml">
-	<head>
-		<meta href="style.css" rel="stylesheet" type="text/css" />
-		<title>About Anna Baldauff</title>
-	</head>
-	
-	<body>
-	/* Here is our welcome message */
-	
-	<h2>Welcome to my about me page!</h2>
-	<p> This is a paragraph tag</p>
-	
-	</body>
-</html>
+ 
+p {
+    property: value;
+}
+
+.class {
+    property: value;
+}
+
+#id {
+    property:value;
+}
