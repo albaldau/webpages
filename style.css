@@ -1,0 +1,21 @@
+/*
+ *Name: Anna Baldauff
+ *UnityID: albaldau
+ *Date: 4/5/2024
+ *Assignment: Independent Assignment 4
+ *Description: Independent Assignment 4 - CSS Document
+ */
+ body {
+    background-color:#215225;
+}
+
+.table-border  {
+    border: 3px solid #FFFFFF;
+}
+
+#photo-resize {
+	border: 2px outset #008000;
+    width: 250px;
+	height: 300px;
+	
+}
